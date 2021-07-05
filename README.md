@@ -10,7 +10,7 @@
 </a>
 <br /><br />
 
-👨‍💻 &nbsp; Professional Developer since 2016.
+👨‍💻 &nbsp; Professional developer since 2016 and graduated in Computer Engineering.
 
 🔭 &nbsp; Currently working on my new personal website and blog.
 
