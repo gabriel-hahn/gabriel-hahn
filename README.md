@@ -25,6 +25,7 @@
 <code><img height="20" alt="HTML" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="NextJS" title="NextJS" src="https://cdn.svgporn.com/logos/nextjs.svg"></code>
 <code><img height="20" alt="Testing Library" title="Testing Library" src="https://testing-library.com/img/octopus-32x32.png"></code>
 <code><img height="20" alt="Jest" title="Jest" src="https://cdn.svgporn.com/logos/jest.svg"></code>
 <code><img height="20" alt="Elasticsearch" title="Elasticsearch" src="https://cdn.svgporn.com/logos/elasticsearch.svg"></code>
