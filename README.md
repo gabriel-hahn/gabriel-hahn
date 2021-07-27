@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Hahn Schaeffer</h1>
-<h3 align="center">Senior Front end Developer at Upnid and Freelance Full Stack Developer.</h3>
+<h3 align="center">Senior Front end Developer at Upnid and Freelance Full Stack Engineer.</h3>
 
 <a href="https://www.linkedin.com/in/gabriel-hahn-schaeffer">
   <img align="left" alt="Gabriel' Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
