@@ -5,7 +5,7 @@
   <img align="left" alt="Gabriel' Linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/playlist/3yz5jIO6WBH5RTEStaSs8x?si=4e9fb8b7c5f74a59">
-  <img align="left" alt="Gabriel's Playlist on Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Gabriel's Playlist on Spotify" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/168px-Spotify_logo_without_text.svg.png?20160123212544" />
 </a>
 <br /><br />
 
