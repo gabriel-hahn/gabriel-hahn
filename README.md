@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Hahn Schaeffer</h1>
+<h1 align="center">Hey, I'm Gabriel Hahn Schaeffer</h1>
 <h3 align="center"></h3>
 
 <a href="https://www.linkedin.com/in/gabriel-hahn-schaeffer">
@@ -28,7 +28,7 @@
 &nbsp;
 <img height="25" alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 &nbsp;
-<img height="25" alt="React" title="React" src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png">
+<img height="25" alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 &nbsp;
 <img height="25" alt="NextJS" title="NextJS" src="https://cdn.svgporn.com/logos/nextjs.svg">
 &nbsp;
