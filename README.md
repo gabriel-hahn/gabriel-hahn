@@ -15,8 +15,6 @@
 
 📫 &nbsp; gabriel_hahn@hotmail.com.
 
-🌱 &nbsp; Hobbies: Soccer and Traveling 😎 ... ok, not during this pandemic 😅
-
 **Languages and Tools:**  
 
 <p>
