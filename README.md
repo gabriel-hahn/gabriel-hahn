@@ -28,7 +28,7 @@
 &nbsp;
 <img height="25" alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 &nbsp;
-<img height="25" alt="NextJS" title="NextJS" src="https://cdn.svgporn.com/logos/nextjs.svg">
+<img height="25" alt="NextJS" title="NextJS" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
 &nbsp;
 <img height="25" alt="Testing Library" title="Testing Library" src="https://testing-library.com/img/octopus-32x32.png">
 &nbsp;
@@ -50,5 +50,3 @@
 &nbsp;
 <img height="25" alt="GIT" title="GIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
-
-[![gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-hahn&count_private=true&theme=dark&show_icons=true&hide=contribs,issues,prs)](https://github.com/gabriel-hahn)
