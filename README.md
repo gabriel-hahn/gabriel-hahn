@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 <a href="https://www.linkedin.com/in/gabriel-hahn-schaeffer">
-  <img align="left" alt="Gabriel' Linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Gabriel' Linkedin" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 <a href="https://open.spotify.com/playlist/3yz5jIO6WBH5RTEStaSs8x?si=4e9fb8b7c5f74a59">
   <img align="left" alt="Gabriel's Playlist on Spotify" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/168px-Spotify_logo_without_text.svg.png?20160123212544" />
