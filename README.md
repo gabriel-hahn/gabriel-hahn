@@ -11,8 +11,6 @@
 
 👨‍💻 &nbsp; Senior Software Engineer at X-Team and graduated in Computer Engineering.
 
-🔭 &nbsp; Currently working on my new personal website and blog.
-
 📫 &nbsp; gabriel_hahn@hotmail.com.
 
 **Languages and Tools:**  
