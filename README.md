@@ -28,25 +28,13 @@
 &nbsp;
 <img height="25" alt="NextJS" title="NextJS" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
 &nbsp;
-<img height="25" alt="Testing Library" title="Testing Library" src="https://testing-library.com/img/octopus-32x32.png">
-&nbsp;
-<img height="25" alt="Jest" title="Jest" src="https://cdn.svgporn.com/logos/jest.svg">
-&nbsp;
-<img height="25" alt="Elasticsearch" title="Elasticsearch" src="https://cdn.svgporn.com/logos/elasticsearch.svg">
-&nbsp;
 <img height="25" alt="GraphQL" title="GraphQL" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
 &nbsp;
 <img height="25" alt="NodeJS" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 &nbsp;
 <img alt="Docker" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="25"/>
 &nbsp;
-<img height="25" alt="Styled Components" title="Styled Components" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
-&nbsp;
-<img height="25" alt="SASS" title="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-&nbsp;
-<img height="25" alt="Webpack" title="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
-&nbsp;
-<img height="25" alt="GIT" title="GIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-&nbsp;
 <img height="25" alt="Golang" title="Golang" src="https://e7.pngegg.com/pngimages/762/331/png-clipart-go-programming-language-computer-programming-programmer-programming-language-miscellaneous-computer-program.png">
+&nbsp;
+<img height="25" alt="AWS" title="AWS" src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png">
 </p>
