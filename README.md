@@ -9,7 +9,7 @@
 </a>
 <br /><br />
 
-👨‍💻 &nbsp; Senior Software Engineer at X-Team and graduated in Computer Engineering.
+👨‍💻 &nbsp; Senior Software Engineer and graduated in Computer Engineering.
 
 📫 &nbsp; gabriel_hahn@hotmail.com.
 
